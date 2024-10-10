@@ -1,0 +1,24 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #01244f;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  background-color: #033976;
+  height: 50vh;
+  justify-content: center;
+}
+
+.title {
+  font-size: 5vh;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-primary {
+  color: #FF6500;
+}
