@@ -1,0 +1,86 @@
+body {
+    height: 1700px;
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #033976;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imgIntro {
+    height: 350px;
+    width: 500px;
+    margin: 20px 20px;
+    border: 5px solid #FF6500;
+    border-radius: 10px;
+}
+
+.h1Intro {
+    font-size: 20px;
+    font-style: bold;
+    width: auto;
+}
+
+.h2Intro {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.MainBoxIntro {
+    width: 1200px;
+    height: 400px;
+    background-color: #01244F;
+    margin: 0 auto;
+}
+
+.recoloredMainIntro {
+    background-color: #033976;
+}
+
+.textboxIntro {
+    margin-top: 20px;
+    width: 600px;
+    height: 350px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.SmallboxFeatures {
+    margin-top: 25px;
+    height: 200px;
+    width: 250px;
+    margin-left: 40px;
+}
+
+.LargeboxFeatures {
+    margin-top: 35px;
+    height: 200px;
+    width: 540px;
+    margin-left: 40px;
+}
+
+.MainBoxFeatures {
+    width: 1200px;
+    height: 600px;
+    background-color: #01244F;
+    margin: 35px auto;
+}
+
+.titleFeatures {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.floatrightIntro {
+    float: right;
+}
+
+.floatleftIntro {
+    float: left;
+}
+
+.clearbothIntro {
+    clear: both;
+}
