@@ -106,3 +106,17 @@
   -o-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
 }
+
+/* galleri */
+.container{
+    width: 1800px;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+.galeri-alex{
+    width: 400px;
+    height: 400px;
+    margin: 15px;
+    object-fit: cover;
+}
