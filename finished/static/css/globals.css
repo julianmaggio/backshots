@@ -1,0 +1,17 @@
+body {
+    background-color: #033976;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fr{
+    float: right;
+}
+
+.fl{
+    float: left;
+}
+
+.cb{
+    clear: both;
+}

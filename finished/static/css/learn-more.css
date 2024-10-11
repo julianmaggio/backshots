@@ -1,0 +1,38 @@
+.TitleBoxLearnmore {
+    width: 100%;
+    height: 800px;
+    background-color: #01244F;
+    margin: 0 auto;
+}
+
+.learnmoreundertitel {
+    font-size: 20px;
+}
+
+.learnmoreLongBox {
+    height: 800px;
+    width: 700px;
+    margin-top: 40px;
+}
+
+.toplearnmoreminibox {
+    height: 124px;
+    width: 400px;
+    margin: 40px 50px;
+}
+
+.learnmoreminibox {
+    height: 124px;
+    width: 400px;
+    margin: 20px 50px;
+}
+
+.learnmorefloatleft {
+    float: left;
+}
+
+.containerLearnMore {
+    width: 1200px;
+    height: 1200px;
+    margin: 0 auto;
+}
