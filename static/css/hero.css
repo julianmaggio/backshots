@@ -1,0 +1,19 @@
+.hero {
+  display: flex;
+  align-items: center;
+  background-color: #01244F;
+  height: 50vh;
+  justify-content: center;
+}
+
+.title {
+  font-size: 5vh;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-primary {
+  color: #ff6500;
+}
